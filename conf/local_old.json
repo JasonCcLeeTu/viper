@@ -1,0 +1,8 @@
+
+{
+    "redis" : {
+        "connectionString" : "127.0.0.1:6380",
+        "password" : "99999999",
+        "db" : "1"
+    }
+}
